@@ -10,9 +10,9 @@
             "packageAliases": ["oops"],
             "version": "1.0",
             "packageType": "webApp",
-            "installURL": "https://yourwebsite.com/myWebApp/package.json",
+            "installURL": "this cant be install fool",
             "icon": {
-                "foreground": "https://yourwebsite.com/myWebApp/repoIcon.png",
+                "foreground": "hell yeah",
                 "backgroundColor": "#303947",
                 "backgroundBorder": {
                     "thickness": 2,
