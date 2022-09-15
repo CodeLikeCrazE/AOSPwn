@@ -2,7 +2,7 @@
     "repoName": "Vulnerability Demonstration",
     "repoID": "aospwn",
     "repoAliases": ["vulnerability"],
-    "repoVersion": "1.0",
+    "repoVersion": "1.1",
     "packages": {
         "you_looked": {
             "packageName": "Whoopsie :)",
@@ -20,6 +20,23 @@
                 }
             },
             "description": "<img src='lol' onerror='alert(\"failure\");'>"
+        },
+        "aos_tools": {
+            "packageName": "AOS Tools Vulnerability Playground",
+            "packageID": "aos_tools",
+            "packageAliases": ["tools"],
+            "version": "1.0",
+            "packageType": "webApp",
+            "installURL":"https://codelikecraze.github.io/AOSPwn/vulnerabilityPlayground.json",
+            "icon": {
+                "foreground": "hell yeah",
+                "backgroundColor": "#303947",
+                "backgroundBorder": {
+                    "thickness": 2,
+                    "color": "#252F3A"
+                }
+            },
+            "description": "oh fuck oh shit oh fuck"
         }
     }
 }
